@@ -1,0 +1,83 @@
+/* Your styles here */
+body { text-align: center;
+      line-height: 1.65;
+      font-size: 1.2rem;
+       font-family: "Open Sans", sans-serif;}
+   
+header {background-color: rgb(0, 0, 0); 
+    text-align: left; 
+    margin-left: auto; 
+    margin-left: auto;
+color: #393d41;
+padding: 2em;}
+
+header img {width: 150px;}
+
+main h1 {color: #25a2C3; 
+    font-family: "Montserrat", sans-serif; 
+    line-height: 1;}
+
+p {text-align: center;
+     color: #393d41;}
+
+h3 {font-weight: bold; 
+    line-height: 1.5; ;
+    font-family:  "Montserrat", sans-serif;
+color: #25a2C3;}
+
+.webdeveloper {background-image: url(../images/banner.jpg); 
+    background-position: center; 
+    padding: 10em}
+
+.container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .item {
+    padding: 10px;
+    margin: 5px;
+  }
+.notebook {border-radius: 200px; ;}
+
+button {width: 10em; 
+    height: 3em; 
+    color: #ffffff; 
+    font-family: "Montserrat", sans-serif; 
+    font-weight: bold; border: 1px solid #969494;
+    border-radius: 5px; 
+    text-align: center; 
+    background-color: #f04c2f;}
+
+.testimonianza {background-color:#f04c2f ; 
+    color: #ffffff;
+padding: 2em;}
+
+.testimonianza h1 {color: white;}
+
+.addresstitle {margin-bottom: 0px; color: white;}
+
+blockquote {margin-top:0px;}
+
+
+
+.divcaselle {border-width: 1em; 
+    border: solid; 
+    border-color: #dee1e3;}
+
+.fotocomputer {width: 25.4em;}
+.fotoportatile {width: 25.4em;}
+.fotomeeting {width: 25.4em;}
+
+hr {width: 11em; border-radius: 2em;}
+
+footer {color:#c8e7f0;
+     background-color: #25a2C3; 
+     padding: 10px;}
+
+footer p {margin: 0px; 
+    color: #c8e7f0;}
+
+footer a {color: #c8e7f0;}
+
+footer i {color: #c8e7f0;}
